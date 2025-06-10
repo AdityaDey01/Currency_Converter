@@ -36,14 +36,3 @@ A sleek and responsive **Currency Converter** web application built using **HTML
 👨‍💻 Author
 Aditya Dey
 📫 Feel free to fork, star ⭐, and contribute!
-
-
-
-
-Let me know if you want:
-- A live GitHub Pages version setup
-- README with screenshots
-- License section (e.g., MIT)
-- Deployment instructions for Netlify or Vercel
-
-I'm happy to help!
